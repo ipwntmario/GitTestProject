@@ -1,1 +1,3 @@
 First line in my project!
+
+addition to file 1
