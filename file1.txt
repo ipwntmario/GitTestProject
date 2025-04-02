@@ -1,3 +1,5 @@
 First line in my project!
 
 addition to file 1
+
+added to file 1 (UserThree)
